@@ -27,6 +27,6 @@ for i in range(1, 26):
     result5 = xp.xpath(score)
     test.append(str(result5))
     test2.append(test)
-    print(symbol.join(test))
+    print(symbol.join(test2))
     f.write(symbol.join(test) + '\n')
 f.close()
