@@ -9,4 +9,3 @@ url = url_generator()
 for i in url:
     time.sleep(0.5)
     main(url=i, headers=headers)
-
