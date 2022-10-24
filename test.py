@@ -30,3 +30,4 @@ for i in range(1, 26):
     f.write(symbol.join(test) + '\n')
 f.close()
 
+# 阿斯顿阿斯顿阿萨阿斯顿撒
